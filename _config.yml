@@ -2,21 +2,21 @@
 #
 
 # Site settings
-title: Spectral
-description: |
+title: Tecnologias Ochoa
+description: La mejor compañia de mantenimiento tecnico en equipos de computo
   Another fine responsive  
   site template freebie  
   crafted by [HTML5 UP](http://html5up.net)
 owner: Your Name # or company name
 first_published: 2016 # if migrating another site, the year of your first publish
-email: your-email@domain.com
+email: jonazbrother195@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://arkadianriver.github.io" # the base hostname & protocol for your site
 social:
   twitter: https://twitter.com/<username>
-  github: https://github.com/<username>
+  github: https://github.com/<JonazOR2>
   linkedin-square: https://linkedin.com/in/<username>
-  facebook-official: https://facebook.com/<username>
+  facebook-official: https://facebook.com/<JonazOR>
   google-plus-square: https://plus.google.com/u/0/+<username>
   #email: /contact/
   #flickr:
