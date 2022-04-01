@@ -3,11 +3,8 @@
 
 # Site settings
 title: Tecnologias Ochoa
-description: La mejor compañia de mantenimiento tecnico en equipos de computo
-  Another fine responsive  
-  site template freebie  
-  crafted by [HTML5 UP](http://html5up.net)
-owner: Your Name # or company name
+description: La mejor compañia de mantenimiento tecnico en equipos de computo.
+owner: Jonaz Ochoa Romero
 first_published: 2016 # if migrating another site, the year of your first publish
 email: jonazbrother195@gmail.com
 baseurl: "" # the subpath of your site, e.g. /blog
